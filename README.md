@@ -1,2 +1,2 @@
-# Capstone-9
+# Coursera_Capstone
 Capstone Project IBM
